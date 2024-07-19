@@ -1,2 +1,2 @@
 # resume
-My Personal Website from HTML &amp; CSS
+My Personal Website from HTML &amp; CSS and JS
